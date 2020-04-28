@@ -28,5 +28,8 @@ Nadia, Monika, Warren, Peter
 •	Bulma
 
 
+# Direct to the link 
+https://nadia5125.github.io/NewYork-FindYouWay/
+
 
 
