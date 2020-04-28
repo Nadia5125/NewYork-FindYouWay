@@ -4,7 +4,7 @@ New York , Find Your Way is a search resource with links to the top locations to
 
 # Creator 
 
-Nadia, Monika, Warren, Peter
+By Nadia, Monika, Warren, Peter
 
 
 # Technoly User
