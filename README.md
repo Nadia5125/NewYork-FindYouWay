@@ -31,7 +31,7 @@ By Nadia, Monika, Warren, Peter
 
 
 # Direct to the link 
-https://nadia5125.github.io/NewYork-FindYouWay/
+https://nadia5125.github.io/NewYork-FindYourWay/
 
 
 
