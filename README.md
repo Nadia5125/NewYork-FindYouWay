@@ -1,6 +1,6 @@
 # NewYork-FindYouWay
 
-Project1 Dec 8, 2019
+Project1 repo Dec 8, 2019
 
 New York , Find Your Way is a search resource with links to the top locations to visit and makes it easier for tourist/visitors to New York to see the best experience that New York has to offer.
 
