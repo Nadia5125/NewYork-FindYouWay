@@ -1,4 +1,4 @@
-# NewYork Find Your Way
+# New York, Find Your Way
 
 Project1 repo Dec 8, 2019
 
